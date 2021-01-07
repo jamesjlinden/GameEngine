@@ -1,2 +1,2 @@
 # GameEngine
-Simple Game Engine in C++ for learning and demo purposes
+Game Engine in C++ for learning and demo purposes
