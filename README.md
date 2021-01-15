@@ -1,2 +1,2 @@
-# GameEngine
-Game Engine in C++ for learning and demo purposes
+# OpenGLEngine
+Game Engine in C++ using OpenGL for learning and demo purposes
