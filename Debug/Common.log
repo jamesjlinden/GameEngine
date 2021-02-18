@@ -1,0 +1,47 @@
+﻿  camera.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\camera.cpp': No such file or directory
+  cubemap_texture.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\cubemap_texture.cpp': No such file or directory
+  glut_backend.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\glut_backend.cpp': No such file or directory
+  io_buffer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\io_buffer.cpp': No such file or directory
+  math_3d.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\math_3d.cpp': No such file or directory
+  ogldev_app.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_app.cpp': No such file or directory
+  ogldev_atb.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_atb.cpp': No such file or directory
+  ogldev_backend.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_backend.cpp': No such file or directory
+  ogldev_basic_lighting.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_basic_lighting.cpp': No such file or directory
+  ogldev_basic_mesh.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_basic_mesh.cpp': No such file or directory
+  ogldev_glfw_backend.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_glfw_backend.cpp': No such file or directory
+  ogldev_shadow_map_fbo.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_shadow_map_fbo.cpp': No such file or directory
+  ogldev_skinned_mesh.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_skinned_mesh.cpp': No such file or directory
+  ogldev_texture.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_texture.cpp': No such file or directory
+  ogldev_util.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_util.cpp': No such file or directory
+  ogldev_vulkan.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_vulkan.cpp': No such file or directory
+  ogldev_vulkan_core.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_vulkan_core.cpp': No such file or directory
+  ogldev_win32_control.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_win32_control.cpp': No such file or directory
+  ogldev_xcb_control.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\ogldev_xcb_control.cpp': No such file or directory
+  pipeline.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\pipeline.cpp': No such file or directory
+  Generating Code...
+  Compiling...
+  random_texture.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\random_texture.cpp': No such file or directory
+  technique.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\Common\technique.cpp': No such file or directory
+  Generating Code...
