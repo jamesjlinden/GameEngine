@@ -39,3 +39,6 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
+
+# Visual Studio cache/options directory
+.vs/
